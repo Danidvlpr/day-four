@@ -1,0 +1,26 @@
+[{ 
+        "kitchen":1,
+        "bedrooms":3,
+        "color": "white",
+        "pool": "True",
+        "pets": "dog",
+        "children": "false"
+    },
+    {
+        "kitchen": "True",
+        "bedrooms": 4,
+        "color": "multicolor",
+        "pool": "false",
+        "pets": "dog and cat",
+        "children": 3
+
+    },{
+        "kitchen": "True",
+        "bedrooms": 6,
+        "color": "orange",
+        "pool": "True",
+        "pets": "chickens",
+        "children": 2
+
+    }
+]
